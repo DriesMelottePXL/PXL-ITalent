@@ -1,6 +1,8 @@
 ---
-title: Welcome
+title: PXL ITalent
 layout: default
 ---
 
-# PXL ITalent
+[Internationalisering](internationalisering.md)
+
+# Eindreflectie
