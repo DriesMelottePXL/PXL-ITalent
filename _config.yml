@@ -1,6 +1,3 @@
 title: My Cayman-Themed Site
 description: Dries Melotte
 theme: jekyll-theme-cayman
-
-header_pages:
-  - internationalisering.md
