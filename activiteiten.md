@@ -12,7 +12,7 @@ layout: default
     Seminaries
   </a>
 
-  <a href="./persoonlijke_groei.html" style="background: #0366d6; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none;">
+  <a href="./persoonlijke_groei.html" style="background: #0366d6; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none; margin-right: 10px;">
     Persoonlijke groei
   </a>
 
