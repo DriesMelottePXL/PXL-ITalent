@@ -5,11 +5,15 @@ layout: default
 
 <p>
   <a href="./" style="background: #0366d6; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none; margin-right: 10px;">
-    Eindreflectie
+    Introductie
   </a>
 
-  <a href="./seminaries.html" style="background: #0366d6; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none;">
+  <a href="./seminaries.html" style="background: #0366d6; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none;  margin-right: 10px;">
     Seminaries
+  </a>
+
+  <a href="./internationalisering.html" style="background: #0366d6; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none;">
+      Internationalisering
   </a>
 </p>
 
