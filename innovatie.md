@@ -29,4 +29,4 @@ layout: default
   </a>
 </p>
 
-# Activiteiten
+# Innovatie
