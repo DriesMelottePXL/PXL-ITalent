@@ -21,4 +21,4 @@ layout: default
   </a>
 </p>
 
-# Introductie
+# Activiteiten
