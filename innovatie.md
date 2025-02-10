@@ -33,12 +33,16 @@ Locatie: Corda Campus, Corda 7, 3500 Hasselt
 
 Tijdens deze gastcollege reflecteerden we op belangrijke cybersecuritythema's, zoals het ontleden van cyberaanvallen, Advanced Persistent Threats (APT), ransomware, en de aanpak van incidenten via Cybersecurity Crisis Management en Incident Response. Daarnaast voerden we een praktische oefening uit waarbij we een incident report opstelden en presenteerden aan het management, wat ons inzicht gaf in het belang van duidelijke communicatie tijdens crisissituaties.
 
+---
+
 ## Cloudar
 
 Datum: 08/10/2024
 Locatie: Corda Campus, Corda 7, 3500 Hasselt 
 
 Tijdens de les stonden Threat Hunting en Response in AWS centraal. We leerden hoe dreigingen in cloudomgevingen opgespoord kunnen worden met verschillende tools, en hoe incidenten effectief aangepakt worden om beveiliging te waarborgen.
+
+---
 
 ## Exclusive Networks / Fortinet
 

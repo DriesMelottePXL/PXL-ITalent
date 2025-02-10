@@ -39,6 +39,8 @@ Tijdens deze week hebben wij voor een concertzaal (Godset) een digitale oplossin
   <img src="foto's/IMG_5040.jpg" alt="alt text" width="300" height="334" style="display:inline-block;">
 </p>
 
+---
+
 ## Internationale stage Valencia
 
 Datum: 24/02/2025 - 30/02/2025
