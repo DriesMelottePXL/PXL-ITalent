@@ -30,8 +30,9 @@ layout: default
 
 ### Forensics
 
-Datum: 21/03/2023
-Locatie: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
+**Datum**: 21/03/2023
+
+**Locatie**: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
 
 geen idee meer dit volgt nog
 
@@ -41,8 +42,9 @@ geen idee meer dit volgt nog
 
 ### Multi Cloud
 
-Datum: 18/04/2023
-Locatie: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
+**Datum**: 18/04/2023
+
+**Locatie**: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
 
 geen idee meer dit volgt nog
 
@@ -52,8 +54,9 @@ geen idee meer dit volgt nog
 
 ### Forensics
 
-Datum: 02/05/2023
-Locatie: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
+**Datum**: 02/05/2023
+
+**Locatie**: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
 
 geen idee meer dit volgt nog
 
@@ -63,8 +66,9 @@ geen idee meer dit volgt nog
 
 ### Nomad
 
-Datum: 09/05/2023
-Locatie: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
+**Datum**: 09/05/2023
+
+**Locatie**: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
 
 geen idee meer dit volgt nog
 
@@ -74,8 +78,9 @@ geen idee meer dit volgt nog
 
 ### Discover the meeting point of GenAI, Prompt Engineering and Quantum Computing
 
-Datum: 06/11/2024
-Locatie: Corda Campus, Corda 7, 3500 Hasselt
+**Datum**: 06/11/2024
+
+**Locatie**: Corda Campus, Corda 7, 3500 Hasselt
 
 Dit seminarie richtte zich op de nieuwe hype van AI. Het ging vooral over hoe quantum computing gebruik maakt van AI, hoe we GenAI en code assistant kunnen gebruiken.
 
@@ -85,8 +90,9 @@ Dit seminarie richtte zich op de nieuwe hype van AI. Het ging vooral over hoe qu
 
 ### DevSecOps Workshop
 
-Datum: 13/11/2024
-Locatie: Corda Campus, Corda 7, 3500 Hasselt
+**Datum**: 13/11/2024
+
+**Locatie**: Corda Campus, Corda 7, 3500 Hasselt
 
 Tijdens dit seminarie zijn we meteen praktisch aan de slag gegaan. Hierbij hebben we in een gitlab omgeving 5 labs opgelost door een applicatie te deployen met security in het achterhoofd.
 
@@ -96,8 +102,9 @@ Tijdens dit seminarie zijn we meteen praktisch aan de slag gegaan. Hierbij hebbe
 
 ### Bedrijfsbezoek aan het datacenter
 
-Datum: 20/11/2024
-Locatie: Cegeka, Universiteitslaan 9, 3500 Hasselt
+**Datum**: 20/11/2024
+
+**Locatie**: Cegeka, Universiteitslaan 9, 3500 Hasselt
 
 Dit was een minder klassiek seminarie. We gingen op uitstap naar het datacenter waar we een rondleiding kregen en een uitleg hoe hun datacenter werkt en draaiende blijft.
 
@@ -107,7 +114,8 @@ Dit was een minder klassiek seminarie. We gingen op uitstap naar het datacenter 
 
 ### Intro in Digital Forensics
 
-Datum: 04/12/2024
-Locatie: Corda Campus, Corda 7, 3500 Hasselt
+**Datum**: 04/12/2024
+
+**Locatie**: Corda Campus, Corda 7, 3500 Hasselt
 
 In dit seminarie moesten we low level forensische taken met opensource tooling uitvoeren. Het doel van dit was om tegen het einde van de workshop een zogenaamde "case" op te lossen.
