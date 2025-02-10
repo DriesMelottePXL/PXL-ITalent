@@ -30,6 +30,7 @@ layout: default
 ## BusIT week Denemarken
 
 Datum: 26/03/2023 - 31/03/2023
+
 Locatie: International Business Academy, Kolding, Denemarken
 
 Tijdens deze week hebben wij voor een concertzaal (Godset) een digitale oplossing gezocht voor hun dalende ticket verkoop. In een groep van verschillende nationaliteiten werkte we in Figma een prototype uitwerken en dit hebben we aan het einde van de week voorgesteld aan Godset. 
@@ -44,4 +45,5 @@ Tijdens deze week hebben wij voor een concertzaal (Godset) een digitale oplossin
 ## Internationale stage Valencia
 
 Datum: 24/02/2025 - 30/02/2025
+
 Locatie: SQLI, Valencia, Spanje
