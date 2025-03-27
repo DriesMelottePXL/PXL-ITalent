@@ -34,7 +34,7 @@ layout: default
 
 **Locatie**: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
 
-Deze seminarie focust op het detecteren van malware vanuit een incident response perspectief via praktijkgerichte analyse op een geïnfecteerde virtuele machine. Deelnemers leren technieken om persistente malware en sporen van uitvoering op te sporen, en maken kennis met tools voor statische analyse.
+Dit seminarie focust op het detecteren van malware vanuit een incident response perspectief via praktijkgerichte analyse op een geïnfecteerde virtuele machine. Deelnemers leren technieken om persistente malware en sporen van uitvoering op te sporen, en maken kennis met tools voor statische analyse.
 
 ---
 
@@ -58,7 +58,7 @@ In deze workshop starten deelnemers met het opzetten van een Docker-applicatie e
 
 **Locatie**: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
 
-Deze uiteenzetting biedt inzicht in het werk van de RCCU binnen de federale gerechtelijke politie en hun rol in het verzamelen van digitaal bewijs. Daarnaast komen hun strijd tegen cybercriminaliteit en de technologische en juridische uitdagingen aan bod.
+Dit seminarie biedt inzicht in het werk van de RCCU binnen de federale gerechtelijke politie en hun rol in het verzamelen van digitaal bewijs. Daarnaast komen hun strijd tegen cybercriminaliteit en de technologische en juridische uitdagingen aan bod.
 
 ---
 

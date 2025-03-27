@@ -47,3 +47,5 @@ Tijdens deze week hebben wij voor een concertzaal (Godset) een digitale oplossin
 **Datum**: 24/02/2025 - 30/02/2025
 
 **Locatie**: SQLI, Valencia, Spanje
+
+Tijdens deze stage ontwikkelde ik een chatbot voor het Digital Continuity Team van SQLI. De chatbot was bedoeld om repetitieve taken te verlichten en de motivatie van het team te verhogen door het toepassen en onderzoeken van gamification. Hierdoor konden teamleden efficiënter werken en zich beter concentreren op belangrijkere taken.
