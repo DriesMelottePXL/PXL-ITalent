@@ -34,7 +34,7 @@ layout: default
 
 **Locatie**: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
 
-geen idee meer dit volgt nog
+Deze seminarie focust op het detecteren van malware vanuit een incident response perspectief via praktijkgerichte analyse op een geïnfecteerde virtuele machine. Deelnemers leren technieken om persistente malware en sporen van uitvoering op te sporen, en maken kennis met tools voor statische analyse.
 
 ---
 
@@ -46,7 +46,7 @@ geen idee meer dit volgt nog
 
 **Locatie**: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
 
-geen idee meer dit volgt nog
+In deze workshop starten deelnemers met het opzetten van een Docker-applicatie en het manueel uitrollen van infrastructuur op AWS. Daarna wordt alles geautomatiseerd met Bicep, CloudFormation, Terraform en GitLab in een multi-cloud setup.
 
 ---
 
@@ -58,8 +58,7 @@ geen idee meer dit volgt nog
 
 **Locatie**: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
 
-geen idee meer dit volgt nog
-
+Deze uiteenzetting biedt inzicht in het werk van de RCCU binnen de federale gerechtelijke politie en hun rol in het verzamelen van digitaal bewijs. Daarnaast komen hun strijd tegen cybercriminaliteit en de technologische en juridische uitdagingen aan bod.
 ---
 
 ## Inuits
@@ -70,7 +69,7 @@ geen idee meer dit volgt nog
 
 **Locatie**: Hogeschool PXL campus Elfde Linie, 3500 Hasselt
 
-geen idee meer dit volgt nog
+In dit seminarie ontdekken deelnemers Nomad van HashiCorp als alternatief voor Kubernetes. Na een korte introductie zetten ze zelf een Nomad job op en ervaren zo hands-on hoe container orchestratie met Nomad werkt.
 
 ---
 
