@@ -17,7 +17,7 @@ layout: default
 
   .image-right {
     float: right;
-    margin: 1em;
+    margin: 1em 0 1em 2em;
     max-width: 40%;
     border-radius: 8px;
   }
