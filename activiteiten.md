@@ -3,46 +3,6 @@ title: PXL ITalent
 layout: default
 ---
 
-<style>
-  body {
-    background-color: #1e1e1e; /* dark background */
-    color: #dddddd; /* light text */
-    font-family: 'Segoe UI', sans-serif;
-  }
-
-  .section-title {
-    font-size: 1.5em;
-    font-weight: bold;
-    color: #1ecb74; /* greenish */
-  }
-
-  .highlight {
-    color: red;
-  }
-
-  .content {
-    max-width: 900px;
-    margin: auto;
-    line-height: 1.6;
-  }
-
-  .image-right {
-    float: right;
-    margin: 1em;
-    max-width: 40%;
-    border-radius: 8px;
-  }
-
-  @media (max-width: 768px) {
-    .image-right {
-      float: none;
-      display: block;
-      margin: 1em auto;
-      max-width: 100%;
-    }
-  }
-</style>
-
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="./" style="background: #0366d6; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none;">
     Introductie
@@ -69,8 +29,6 @@ layout: default
 ## BusIT-Week Denemarken
 
 <div class="content">
-
-<span class="section-title">3.1&nbsp;&nbsp;BusIT-week Denemarken</span>
 
 <p>
 In mijn tweede jaar besloot ik een avontuur aan te gaan door me in te schrijven voor de BusIT-week naar Denemarken. 
