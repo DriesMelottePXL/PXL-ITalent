@@ -10,32 +10,3 @@ footer {
 .btn {
   display: none !important;
 }
-
-/* Custom styling for your Denmark section */
-
-
-.highlight {
-  color: red;
-}
-
-.content {
-  max-width: 900px;
-  margin: auto;
-  line-height: 1.6;
-}
-
-.image-right {
-  float: right;
-  margin: 1em;
-  max-width: 40%;
-  border-radius: 8px;
-}
-
-@media (max-width: 768px) {
-  .image-right {
-    float: none;
-    display: block;
-    margin: 1em auto;
-    max-width: 100%;
-  }
-}
