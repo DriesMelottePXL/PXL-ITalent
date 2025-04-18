@@ -3,7 +3,46 @@ title: PXL ITalent
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/custom.css">
+<style>
+
+  .highlight {
+    color: red;
+  }
+
+  .content {
+    max-width: 900px;
+    margin: auto;
+    line-height: 1.6;
+  }
+
+  .image-right {
+    float: right;
+    margin: 1em;
+    max-width: 40%;
+    border-radius: 8px;
+  }
+
+  @media (max-width: 768px) {
+    .image-right {
+      float: none;
+      display: block;
+      margin: 1em auto;
+      max-width: 100%;
+    }
+  }
+
+  .image-right-wrapper {
+    float: right;
+    max-width: 40%;
+     margin: 1em;
+  }
+
+  .image-right {
+    width: 100%;
+    border-radius: 8px;
+  }
+
+</style>
 
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="./" style="background: #0366d6; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none;">
@@ -39,7 +78,9 @@ Deze reis leek me een uitgelezen kans om niet alleen mijn technische vaardighede
 maar ook mijn blik op andere culturen te verruimen.
 </p>
 
-<img src="foto's/IMG_5073.JPG" alt="Team photo in Denmark" class="image-right"/>
+<div class="image-right-wrapper">
+  <img src="foto's/IMG_5073.JPG" alt="Team photo in Denmark" class="image-right"/>
+</div>
 
 <p>
 Hoewel de opdracht over UX/UI-Design ging en niet echt aansloot aan mijn gekozen afstudeerrichting 
@@ -64,7 +105,9 @@ We begonnen met een rondleiding bij Godset, zodat we een duidelijk beeld kregen 
 Eenmaal terug op de campus van IBA, de gastheer van deze BusIT-week, werden we willekeurig in groepen verdeeld. Bij de samenstelling werd er bewust gestreefd naar een mix van nationaliteiten. Mijn groep bestond uit drie Belgen, één uit Antwerpen, één uit Wallonië en ikzelf, aangevuld met twee Deense studenten en één deelnemer uit Hongarije.
 </p>
 
-<img src="foto's/IMG_5040.jpg" alt="Photo of Building" class="image-right" heigth="600px"/>
+<div class="image-right-wrapper">
+  <img src="foto's/IMG_5040.jpg" alt="Photo of Building" class="image-right" heigth="600px"/>
+</div>
 
 <p>
 Na een intensieve dag brainstormen over hoe we de ticketverkoop bij Godset opnieuw konden stimuleren via innovatieve ideeën, gingen we op dinsdag aan de slag met het uitwerken van twee concepten.
