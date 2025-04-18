@@ -121,5 +121,52 @@ Het eerste idee was een photobooth. Bezoekers konden hierin, net zoals bij een k
 Het tweede idee draaide rond het digitaliseren van de vestiaire. In plaats van de klassieke papieren vestiairetickets ontwierpen we een app. Wanneer je je jas afgeeft, wordt er een QR-code aan bevestigd. Die scan je met de app, die gekoppeld is aan je persoonlijke account. In de app kun je je vestiaireticket raadplegen, en door dit bij het ophalen te tonen, krijg je je jas sneller en efficiënter terug zonder het risico om een papiertje kwijt te raken.
 </p>
 
+<p>
+Op vrijdag, de laatste dag van het project, mochten we ons concept presenteren aan de vertegenwoordigers van Godset. We toonden hoe ons idee eruitzag, hoe het in de praktijk kon worden toegepast en op welke manier het kon bijdragen aan een hogere ticketverkoop.
+</p>
+
+<p>
+Nadat alle groepen hun voorstellen hadden gepitcht, trok de jury zich terug om het winnende concept te bepalen. Er waren heel wat sterke ideeën, maar helaas waren wij niet de winnaar. Als bewijs van onze deelname kregen we wel allemaal nog een certificaat.
+</p>
+
+<p>
+Naast het project werden er doorheen de week ook verschillende activiteiten buiten de werkuren georganiseerd. Zo maakten we een culturele wandeling door de stad, die eindigde met een bezoek aan het Koldinghus, een indrukwekkend kasteel uit de 13de eeuw. Het was een leuke manier om niet alleen technisch en creatief uitgedaagd te worden, maar ook een flinke portie Deense cultuur mee te pikken.
+</p>
+
+<div class="image-right-wrapper">
+  <img src="foto's/Koldinghus.png" alt="Koldinghus" class="image-right"/>
+</div>
+
+<p>
+Dit was echter niet de enige activiteit. We kregen ook de kans om een concert bij te wonen van een punkrockband in de concertzaal van Godset zelf. Dat zorgde niet alleen voor een leuke avond, maar gaf ons ook waardevolle inzichten in hoe ons concept in de praktijk zou kunnen werken.
+</p>
+
+<p>
+In onze vrije tijd trokken we vaak naar The Arcade, een gezellige lokale bar met een mix van bordspellen en arcadekasten, de ideale plek om te ontspannen en andere studenten beter te leren kennen.
+</p>
+
+<p>
+Deze reis heeft me veel geleerd over zelfstandigheid. Het was de eerste keer dat ik zonder mijn ouders naar het buitenland ging, en meteen ook buiten België. Ik ben ontzettend blij dat ik deze kans heb gegrepen, want wat ik in die ene week over mezelf en de wereld heb geleerd, had ik nooit op een jaar tijd op school kunnen meemaken.
+</p>
+
+<p>
+Daarnaast heb ik er ook heel wat nieuwe vriendschappen aan overgehouden: drie Duitsers met wie ik mijn kamer deelde, drie Nederlanders die vaak met ons optrokken, en natuurlijk mijn medestudenten van PXL.
+</p>
+
+<div class="image-right-wrapper">
+  <img src="foto's/ducks.jpg" alt="ducks" class="image-right"/>
+</div>
+
+<p>
+Natuurlijk heb ik tijdens het project zelf ook veel bijgeleerd. Zo maakte ik voor het eerst echt kennis met Figma en werd ik uitgedaagd om mijn creativiteit te gebruiken – iets wat we in mijn opleiding niet zo vaak doen. Al snel merkte ik dat mijn interesse toch meer ligt bij technische opdrachten dan bij creatief werk. Dat inzicht gaf me extra vertrouwen in mijn keuze voor de afstudeerrichting Systeem- en Netwerkbeheer.
+</p>
+
+<p>
+Hoewel het project zelf misschien niet helemaal mijn ding was, maakten de mensen, de cultuur en de hele ervaring eromheen het toch tot een fantastische reis. En misschien nog belangrijker: ik heb bewezen aan mezelf dat ik niet bang ben om uit mijn comfortzone te stappen en iets nieuws te proberen, zoals deelnemen aan een creatief project.
+</p>
+
+<p>
+Deze ervaring behoort dan ook tot één van mijn drie belangrijkste activiteiten, juist omdat je dit soort kansen niet in het binnenland kunt meemaken. Daarom zou ik het absoluut aanraden aan iedereen die de mogelijkheid heeft om deel te nemen aan een BusIT-week het is een unieke ervaring die je niet snel vergeet.
+</p>
 
 </div>
