@@ -42,6 +42,16 @@ layout: default
     border-radius: 8px;
   }
 
+  summary {
+    list-style: disclosure-closed;
+    display: list-item;
+  }
+  
+  details[open] > summary {
+    list-style: disclosure-open;
+  }
+
+
 </style>
 
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
