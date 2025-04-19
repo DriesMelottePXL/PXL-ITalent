@@ -67,8 +67,10 @@ layout: default
 
 # Activiteiten
 
-## BusIT-Week Denemarken
-
+<details closed>
+ <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
+    BusIT-Week Denemarken
+  </summary>
 <div class="content">
 
 <p>
@@ -158,7 +160,7 @@ Daarnaast heb ik er ook heel wat nieuwe vriendschappen aan overgehouden: drie Du
 </div>
 
 <p>
-Natuurlijk heb ik tijdens het project zelf ook veel bijgeleerd. Zo maakte ik voor het eerst echt kennis met Figma en werd ik uitgedaagd om mijn creativiteit te gebruiken – iets wat we in mijn opleiding niet zo vaak doen. Al snel merkte ik dat mijn interesse toch meer ligt bij technische opdrachten dan bij creatief werk. Dat inzicht gaf me extra vertrouwen in mijn keuze voor de afstudeerrichting Systeem- en Netwerkbeheer.
+Natuurlijk heb ik tijdens het project zelf ook veel bijgeleerd. Zo maakte ik voor het eerst echt kennis met Figma en werd ik uitgedaagd om mijn creativiteit te gebruiken, iets wat we in mijn opleiding niet zo vaak doen. Al snel merkte ik dat mijn interesse toch meer ligt bij technische opdrachten dan bij creatief werk. Dat inzicht gaf me extra vertrouwen in mijn keuze voor de afstudeerrichting Systeem- en Netwerkbeheer.
 </p>
 
 <p>
@@ -170,3 +172,196 @@ Deze ervaring behoort dan ook tot één van mijn drie belangrijkste activiteiten
 </p>
 
 </div>
+
+</details>
+
+<details closed>
+  <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
+    Internationale stage Valencia
+  </summary>
+
+<div class="content">
+
+<p>
+In het laatste jaar van deze opleiding moet je op stage, en dat kan zowel in het binnen- als buitenland. Ik koos ervoor om naar het zuiden te trekken en op buitenlandse stage te gaan. Met de hulp van mijn lectoren Maarten Sourbron en Johan Cleuren kwam ik terecht bij het bedrijf SQLI.
+</p>
+
+<p>
+Ik leerde SQLI vooral kennen via Maarten, die er vroeger werkte toen het nog Osudio heette. Hij bezorgde me de contactgegevens van mijn huidige stagebegeleider – die toevallig ook Maarten heet. Na wat overleg en contact met Johan, gingen we, samen met een klasgenoot, langs voor een kennismakingsgesprek. Niet veel later kregen we het goede nieuws: we mochten aan de slag.
+</p>
+
+<p>
+Aangezien SQLI een vestiging heeft in Valencia en daar het beste contact is met het team ter plaatse, werd beslist dat we onze stage in die stad zouden doen. En zo begon ons avontuur.
+</p>
+
+<p>
+Met dit avontuur wilde ik niet alleen mijn technische kennis uitbreiden, maar ook groeien op persoonlijk vlak. Het was een kans om mezelf beter te leren kennen, zelfstandiger te worden en stappen te zetten richting volwassenheid. Aangezien ik nooit op kot heb gezeten, was dit mijn eerste echte ervaring met alleen wonen.
+</p>
+
+<p>
+Ik keek er ook enorm naar uit om aan mijn stage te beginnen. Niet alleen om mijn technische vaardigheden te versterken, maar ook om mijn soft skills verder te ontwikkelen. Want in een professioneel bedrijf volstaat het niet om enkel technisch sterk te zijn, je moet ook helder kunnen communiceren, presenteren en je keuzes kunnen toelichten aan bijvoorbeeld een manager, in duidelijke, begrijpbare taal.
+</p>
+
+<p>
+De eerste dagen in Valencia stonden vooral in het teken van uitpakken en de stad verkennen. Maar op maandag begon het echte werk: onze eerste stagedag. We werden meteen hartelijk verwelkomd door Gloria en Marta, die ons een rondleiding gaven door het kantoor en ons wegwijs maakten in de huisregels.
+</p>
+
+<div class="image-right-wrapper">
+  <img src="foto's/falla.jpg" alt="falla" class="image-right"/>
+</div>
+
+<p>
+Tijdens onze stage kregen we de opdracht om een interne chatbot te ontwikkelen ter ondersteuning van het Digital Continuity-team. Het doel was om de bot te integreren met tools zoals Jira (voor ticketbeheer), Trello (voor to-dolijsten) en andere systemen. Voor we hieraan konden beginnen, moesten we echter eerst zorgen dat de volledige cloud infrastructuur en de bijbehorende pipelines correct opgezet en geconfigureerd waren.
+</p>
+
+<p>
+Natuurlijk draait deze ervaring niet alleen om de stage zelf, maar ook om alles wat daarbuiten komt kijken. Zo moest ik leren om zelfstandig te wonen, al was ik niet helemaal alleen, want ik deelde mijn appartement met zes andere internationale mensen. Mijn huisgenoten kwamen uit Noorwegen, Duitsland, Nederland, Frankrijk, Oekraïne en Uruguay. Daardoor werd niet alleen mijn Engels op de stageplek op de proef gesteld, maar ook thuis in het dagelijkse leven.
+</p>
+
+<p>
+Ik had het geluk om net op het juiste moment in Valencia te zijn, want van 1 tot 19 maart vond daar het traditionele feest Las Fallas plaats, ter ere van Sint-Jozef. Dit feest draait helemaal rond vuur en vuurwerk, en dat was overal te merken. Elke dag om 14 uur en opnieuw om middernacht werd er groots vuurwerk afgestoken. Maar ook overdag vierden mensen volop mee door zelf vuurwerk en knalvuurpijlen af te steken in de straten. 
+</p>
+
+<p>
+Omdat ik midden in het centrum woonde, was de geluidsoverlast soms behoorlijk heftig, maar tegelijk was het indrukwekkend om mee te maken. Op de laatste dag werd het feest afgesloten met het verbranden van grote, zelfgemaakte beelden op verschillende plekken in de stad. Een spectaculair einde van een uniek cultureel evenement.
+</p>
+
+<div class="image-right-wrapper">
+  <img src="foto's/ciutat.jpg" alt="ciutat" class="image-right"/>
+</div>
+
+<p>
+Na het feest genoot ik extra van de rust en stilte die erop volgde, en dat deed ik vaak op een gezellig terras. Natuurlijk bracht ik niet al mijn tijd daar door. Zo bezocht ik onder andere het bekende Ciutat de les Arts i les Ciències. Hoewel het officieel een museum is, zijn het vooral de architectuur en de indrukwekkende waterpartijen die het zo bijzonder maken.
+</p>
+
+<p>
+Daarnaast trok ik er vaak op uit om te wandelen of te joggen in het Turia-park, een prachtig en uitgestrekt stadspark dat ooit een rivier was en zich als een groen lint door Valencia slingert. Het was de perfecte plek om even te ontspannen en de stad van een andere kant te beleven. 
+</p>
+
+<p>
+Tijdens mijn stage heb ik veel nieuwe mensen leren kennen, zowel in Valencia als in België. Op het kantoor in Valencia kwam ik in contact met onder andere de twee Pablo’s, Gloria en Marta. Hoewel ik niet intensief met hen samenwerkte, zorgde hun aanwezigheid wel voor een fijne sfeer op de werkvloer.
+</p>
+
+<div class="image-right-wrapper">
+  <img src="foto's/churros.jpg" alt="churros" class="image-right"/>
+</div>
+
+<p>
+Dankzij de dagelijkse stand-ups leerde ik ook het Belgische team goed kennen. Zo had ik regelmatig contact met mijn hogeschoolpromotor Maarten, en werkte ik samen met collega’s als Jarne, Dennis, Gert-Jan, Hussien en nog vele anderen. Het was boeiend om deel uit te maken van dit team en op die manier van verschillende mensen bij te leren.
+</p>
+
+<p>
+Op het kantoor in Valencia kregen we om de twee weken op woensdag een heerlijke traktatie: verse paella. Zo ontdekte ik ook dat paella oorspronkelijk uit Valencia komt, en dat proefde je! Daarnaast werden we op een keer ook verrast met churros, een eenmalig maar superleuk initiatief van het bedrijf. Zulke momenten zorgden voor een gezellige sfeer op de werkvloer en maakten de ervaring nog aangenamer. 
+</p>
+
+<p>
+Mijn ervaring in Valencia was simpelweg te mooi en te rijk om in één verslag volledig te vatten. Ik heb er ontzettend veel geleerd, niet alleen op technisch en professioneel vlak, maar vooral over mezelf. Ik heb bewezen, aan mezelf én aan mijn ouders, dat ik zonder problemen zelfstandig kan wonen en mijn plan kan trekken. Deze ervaring heeft me doen inzien dat ik klaar ben om het echte leven tegemoet te gaan.
+</p>
+
+<p>
+Natuurlijk waren er ook moeilijke momenten. Ik had af en toe last van heimwee en miste mijn vrienden en het leven thuis. Maar net die uitdagingen hebben me sterker gemaakt en geholpen om als persoon te groeien.
+</p>
+
+<p>
+Ik ben mijn ouders ontzettend dankbaar voor hun financiële steun en vertrouwen, en ik ben ook de hogeschool heel dankbaar voor het mogelijk maken van deze unieke kans. Deze stage was voor mij veel meer dan een leeropdracht, het was een levensveranderend avontuur.
+</p>
+
+<div class="image-right-wrapper">
+  <img src="foto's/botanischetuin.jpg" alt="tuin" class="image-right"/>
+</div>
+
+<p>
+Het is dan ook geen verrassing dat ik ervoor gekozen heb om over deze buitenlandse stage te schrijven. Hoewel het geen verplicht onderdeel was van mijn opleiding, voelde het voor mij als een unieke kans die ik met beide handen moest grijpen. En ik kan het echt aan iedereen aanraden, ongeacht welke richting je volgt, of zelfs als je niet (meer) studeert. Een tijd in het buitenland wonen en werken leert je zoveel meer dan je ooit in een klaslokaal zou kunnen leren. 
+</p>
+
+<p>
+Je leert omgaan met nieuwe situaties, andere culturen en mensen van over de hele wereld. Maar vooral leer je veel over jezelf: hoe je je aanpast, zelfstandig functioneert en groeit als persoon.
+</p>
+
+<p>
+Voor mij is dit een ervaring die me voor altijd bij zal blijven, eentje waar ik met trots op terugkijk en waar ik ongetwijfeld nog vaak over zal vertellen. Het was geen verplicht hoofdstuk in mijn opleiding, maar wel één van de waardevolste beslissingen die ik ooit heb genomen.
+</p>
+
+<div>
+
+</details>
+
+
+<details closed>
+  <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
+    POPSessie: My Team and I
+  </summary>
+
+<div class="content">
+
+<p>
+Tijdens het I-talent traject namen we deel aan verschillende POP-sessies. De laatste sessie, getiteld “My Team and I”, was gericht op het beter leren kennen van ons IT-Project team. In deze interactieve sessie werkten we samen in teamverband en voerden we opdrachten uit die ons hielpen om elkaar beter te leren kennen. 
+</p>
+
+<p>
+De sessie begon op een luchtige manier. Jo en Carl van LearningPath heetten ons welkom. Samen met verschillende andere teams namen we plaats in een kring om de sessie te starten. We begonnen met enkele vragen over het model van Lencioni, dat is opgebouwd als een piramide.
+</p>
+
+<div class="image-right-wrapper">
+  <img src="foto's/piramide.png" alt="piramide" class="image-right"/>
+</div>
+
+<p>
+Bij dit model is het belangrijk dat elk onderliggend niveau volledig ingevuld en geborgd is voordat je naar de volgende fase gaat. De onderste lagen zijn groter, zwaarder en moeilijker dan de hogere lagen.
+</p>
+
+<p>
+Vervolgens kregen we de opdracht om de juiste eigenschappen aan de juiste niveaus van de piramide te koppelen. Deze eigenschappen waren: vertrouwen, conflicten, betrokkenheid, verantwoordelijkheid en resultaten.
+</p>
+
+<p>
+Na de introductie maakten we een ronde door de kamer, waarbij alle opdrachten werden uitgelegd. We mochten er drie kiezen om uit te voeren. Dit waren opdrachten om het team beter te leren kennen en het ongemakkelijk gevoel er snel uit te halen.
+</p>
+
+<p>
+De eerste opdracht bestond erin dat we met z’n allen op een doek moesten staan en dit moesten omdraaien zonder dat iemand eraf stapte. Het was meteen een sterke start: we moesten dicht bij elkaar staan, goed communiceren en samen een strategie bedenken. Een leuke en uitdagende manier om onze samenwerking te testen.
+</p>
+
+<p>
+De tweede opdracht was een stuk uitdagender: we moesten een puzzel oplossen terwijl we allemaal geblinddoekt waren. Al snel merkten we dat dit erg lastig was, dus besloten we dat één iemand de blinddoek zou afdoen om de rest te begeleiden.
+</p>
+
+<p>
+Tijdens de oefening bleek dat die persoon niet echt een natuurlijke leider was, wat de communicatie bemoeilijkte. In de loop van het project zagen we echter dat iemand anders spontaan een meer coördinerende rol op zich nam. Niet overdreven aanwezig, maar wel op een manier die richting gaf en het team op een rustige manier mee op weg hielp.
+</p>
+
+<p>
+De derde opdracht was zonder twijfel de makkelijkste. We moesten elk door een ander gat in een geweven constructie kruipen. De eerste paar gaten waren eenvoudig te bereiken, maar voor de laatste persoon werd het een stuk uitdagender: die moest door het hoogste gat.
+</p>
+
+<p>
+Hiervoor moesten we echt samenwerken, we tilden hem met z’n allen op, hielpen hem door het gat en zorgden ervoor dat hij aan de andere kant veilig werd opgevangen. Een eenvoudige opdracht, maar wel eentje waarin vertrouwen en samenwerking opnieuw centraal stonden.
+</p>
+
+<p>
+Er zat dus ook veel strategie in deze opdracht want we moeste nadenken om de lichtste persoon door het laatste gat te krijgen. Dit leerde ons ook vooral nadenken voordat we iets doen wat we ook veel hebben moeten doen tijdens het project. 
+</p>
+
+<p>
+Na het afronden van de opdrachten verzamelden alle teams zich opnieuw in de kring om samen te reflecteren. We blikten terug op wat we gedaan hadden, hoe we samenwerkten, en wat ons opviel tijdens de oefeningen.
+</p>
+
+<p>
+Er werd ook stilgestaan bij hoe de opdrachten gelinkt konden worden aan de piramide van Lencioni. Elke oefening had namelijk iets te maken met één van de lagen in het model, van vertrouwen en communicatie tot het nemen van verantwoordelijkheid en het behalen van gezamenlijke resultaten.
+</p>
+
+<p>
+De reden dat ik deze activiteit heb gekozen is omdat ik persoonlijk vond dat dit dit de meest waardevolle POP-sessie van het I-talent traject was. Vooral omdat we elkaar nadien veel beter leerden kennen en er een hechter groepsgevoel ontstond. Tijdens deze sessie merkte ik dat de sfeer binnen het team veranderde. Mensen kwamen losser, we leerden elkaars sterktes en zwaktes beter kennen, en er ontstond een soort vertrouwen dat er voordien minder was. Die verbondenheid zorgde ervoor dat de samenwerking binnen het project niet alleen vlotter verliep, maar ook veel aangenamer werd. Het was niet meer zomaar samenwerken met collega’s; het voelde alsof we echt samen aan iets werkten als een team.
+</p>
+
+<p>
+De opdrachten zelf waren speels en uitdagend, maar hadden wel degelijk een diepere betekenis. Elke oefening had een duidelijk doel en droeg bij aan de onderlinge samenwerking. Vooral de fysieke opdrachten, waarbij we elkaar moesten vertrouwen en ondersteunen, hadden een groot effect op hoe we naar elkaar keken.
+</p>
+
+<p>
+Door de opdrachten op deze manier te kunnen koppelen aan de theorie, kreeg ik bovendien meer inzicht in hoe teamdynamiek werkt en wat nodig is om goed samen te functioneren als groep. De link met de piramide van Lencioni maakte alles duidelijker en concreter. Het zorgde voor een interessante verdieping van de sessie en zette mij aan het denken over mijn eigen rol binnen het team. Ik begon me af te vragen hoe ik zelf bijdraag aan vertrouwen, communicatie en betrokkenheid. Dat bewustzijn neem ik zeker mee naar toekomstige samenwerkingen.
+</p>
+
+<div>
+
+</details>
