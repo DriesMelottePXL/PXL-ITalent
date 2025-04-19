@@ -282,7 +282,7 @@ layout: default
   Voor mij is dit een ervaring die me voor altijd bij zal blijven, eentje waar ik met trots op terugkijk en waar ik ongetwijfeld nog vaak over zal vertellen. Het was geen verplicht hoofdstuk in mijn opleiding, maar wel één van de waardevolste beslissingen die ik ooit heb genomen.
   </p>
 
-  <div>
+  </div>
 </details>
 
 <details open>
