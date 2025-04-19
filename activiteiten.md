@@ -46,7 +46,7 @@ layout: default
     list-style: disclosure-closed;
     display: list-item;
   }
-  
+
   details[open] > summary {
     list-style: disclosure-open;
   }
@@ -72,6 +72,9 @@ layout: default
   </a>
   <a href="./activiteiten.html" style="background: #0366d6; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none;">
     Activiteiten
+  </a>
+  <a href="./eindreflectie.html" style="background: #0366d6; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none;">
+    Eindreflectie
   </a>
 </p>
 
