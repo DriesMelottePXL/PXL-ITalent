@@ -286,7 +286,7 @@ layout: default
   <div>
 </details>
 
-<details closed>
+<details open>
   <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
     POPSessie: My Team and I
   </summary>
