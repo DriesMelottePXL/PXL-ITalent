@@ -285,7 +285,7 @@ layout: default
   </div>
 </details>
 
-<details open>
+<details closed>
   <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
     POPSessie: My Team and I
   </summary>
@@ -360,5 +360,5 @@ layout: default
   Door de opdrachten op deze manier te kunnen koppelen aan de theorie, kreeg ik bovendien meer inzicht in hoe teamdynamiek werkt en wat nodig is om goed samen te functioneren als groep. De link met de piramide van Lencioni maakte alles duidelijker en concreter. Het zorgde voor een interessante verdieping van de sessie en zette mij aan het denken over mijn eigen rol binnen het team. Ik begon me af te vragen hoe ik zelf bijdraag aan vertrouwen, communicatie en betrokkenheid. Dat bewustzijn neem ik zeker mee naar toekomstige samenwerkingen.
   </p>
 
-  <div>
+  </div>
 </details>
