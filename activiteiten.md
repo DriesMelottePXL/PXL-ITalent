@@ -173,7 +173,6 @@ layout: default
   </p>
 
   </div>
-
 </details>
 
 <details closed>
@@ -362,5 +361,4 @@ layout: default
   </p>
 
   <div>
-
 </details>
